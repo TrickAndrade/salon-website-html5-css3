@@ -4,4 +4,4 @@ Este é um site simples para um salão de beleza, com informações sobre os ser
 
 ## Acesse o site
 
-Você pode acessar o site através deste [link](https://seu-site.com).
+Você pode acessar o site através deste [link]([https://seu-site.com](https://trickandrade.github.io/salon-website-html5-css3/)).
